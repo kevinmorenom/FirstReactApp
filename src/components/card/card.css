@@ -1,0 +1,35 @@
+.card_child {
+    padding: 30px 0px 0px 30px;
+    margin: 5px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    height: 100px;
+    flex: 0 1 100%
+
+}
+
+.card--orange{
+    background: orange;
+}
+
+.card--blue{
+    background: dodgerblue;
+}
+
+.card--coral{
+    background:lightcoral
+}
+
+.card--green{
+    background:lightseagreen
+}
+
+.card--red{
+    background:lightpink
+}
+
+#multiplier {
+    margin:15px;
+}
+
